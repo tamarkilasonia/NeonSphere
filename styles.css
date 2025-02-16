@@ -173,3 +173,18 @@ body {
     transform: scale(1.1) rotateY(10deg);
     box-shadow: 0 0 20px rgba(255, 0, 255, 1);
 }
+.hero h1 {
+    font-size: 3rem;
+    animation: typing 3s steps(30) 1s infinite;
+    border-right: 2px solid #fff;
+    padding-right: 10px;
+}
+
+@keyframes typing {
+    0% {
+        width: 0;
+    }
+    100% {
+        width: 100%;
+    }
+}
