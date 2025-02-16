@@ -82,3 +82,20 @@ body {
         transform: scale(1);
     }
 }
+.card {
+    width: 200px;
+    height: 150px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 0 15px rgba(255, 0, 255, 0.7);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+    transform: scale(1.1) rotateY(10deg);
+    box-shadow: 0 0 25px rgba(255, 0, 255, 1);
+    background: rgba(255, 255, 255, 0.2);
+}
