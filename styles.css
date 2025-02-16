@@ -134,3 +134,15 @@ html {
         opacity: 1;
     }
 }
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    transition: transform 0.3s ease;
+}
+
+.container:hover {
+    transform: scale(1.02);
+}
