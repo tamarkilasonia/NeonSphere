@@ -5,3 +5,8 @@ NeonSphere is a futuristic, cyberpunk-inspired interactive website built with **
  **Smooth Animations** – Hero section fades in with `power3.out` easing 
  **Cyberpunk UI** – Neon glow effects and stylish card hover animations  
  **Fully Responsive** – Works on desktops, tablets, and mobile devices 
+ 
+## 🛠Tech Stack  
+- **HTML5** – Structured content  
+- **CSS3** – Custom animations, gradients, and 3D effects  
+- **GSAP** – Smooth transitions and motion effects  
