@@ -201,3 +201,6 @@ body {
     font-size: 3rem;
     text-shadow: 0 0 10px #ff1493, 0 0 20px #ff1493, 0 0 30px #ff1493;
 }
+html {
+    scroll-behavior: smooth;
+}
