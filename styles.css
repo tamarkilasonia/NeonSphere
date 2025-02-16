@@ -43,3 +43,11 @@ body {
     overflow-x: hidden;
     height: 100vh;
 }
+.hero h1 {
+    transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.hero h1:hover {
+    transform: scale(1.1);
+    color: #ff0099;
+}
