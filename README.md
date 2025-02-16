@@ -9,7 +9,8 @@ NeonSphere is a futuristic, cyberpunk-inspired interactive website built with **
 ## Tech Stack  
 - **HTML** – Structured content  
 - **CSS** – Custom animations, gradients, and 3D effects  
-- **GSAP** – Smooth transitions and motion effects  
+- **GSAP** – Smooth transitions and motion effects
+- 
 ## 📝 Installation  
 1. **Clone the repository**  
    ```bash
