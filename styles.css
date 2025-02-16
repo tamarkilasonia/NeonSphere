@@ -35,3 +35,11 @@ body {
 .card:hover {
     transform: scale(1.1) rotateY(10deg);
 }
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(45deg, #ff0099, #493240);
+    color: #fff;
+    overflow-x: hidden;
+    height: 100vh;
+}
